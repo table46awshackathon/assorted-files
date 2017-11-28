@@ -1,0 +1,17 @@
+
+{
+    "fileLocations": [
+        {
+            "URIPrefixes": [
+                "s3://table46hackathondata/clean/"
+            ]
+        }
+    ],
+    "globalUploadSettings": {
+        "format": "CSV",
+        "delimiter": ",",
+        "textqualifier": "'",
+        "containsHeader": "true"
+    }
+}
+                            
